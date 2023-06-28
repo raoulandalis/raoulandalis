@@ -9,7 +9,10 @@ Want to check out my projects? Here they are:
 - [Valbnb](https://raoul-airbnb.onrender.com/) 🎮
 
 
-[![Code Meme](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)](https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5)
+<div style="width: 300px">
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" alt="Code Meme">
+</div>
+
 
 (this meme is also a complete joke and does not reflect me...)
 
