@@ -8,6 +8,11 @@ Want to check out my projects? Here they are:
 - [Flix](https://flix-dyz2.onrender.com/) 🎥
 - [Valbnb](https://raoul-airbnb.onrender.com/) 🎮
 
+
+[![Code Meme](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)](https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5)
+
+(this meme is also a complete joke and does not reflect me...)
+
 [![Raoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoulandalis)](https://github.com/raoulandalis/github-readme-stats)
 
 <div style="display: flex">
