@@ -1,16 +1,27 @@
 ### My name is Raoul, but you can call (or email) me anytime 📱😎
 
-<!--
-**raoulandalis/raoulandalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer ready to learn, work, and most importantly, have fun!
 
-Here are some ideas to get you started:
+Want to check out my projects? Here they are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [FearFace](https://fearface.onrender.com/) 😈
+- [Flix](https://flix-dyz2.onrender.com/) 🎥
+- [Valbnb](https://raoul-airbnb.onrender.com/) 🎮
+
+[![Raoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoulandalis)](https://github.com/raoulandalis/github-readme-stats)
+
+<div style="display: flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" style='width: 50px'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style='width: 50px'>
+</div>
