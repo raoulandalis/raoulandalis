@@ -1,44 +1,37 @@
-### My name is Raoul, but you can call (or email) me anytime 📱😎
+<h3 align="center">My name is Raoul, but you can call (or email) me anytime 📱😎</h3>
 
-I am a full-stack software engineer ready to learn, work, and most importantly, have fun!
+<p align="center">I am a full-stack software engineer ready to learn, work, and most importantly, have fun!</p>
 
-Want to check out my projects? Here they are:
+<p align="center">Want to check out my projects? Here they are:</p>
 
-- [FearFace](https://fearface.onrender.com/) 😈
-- [Flix](https://flix-dyz2.onrender.com/) 🎥
-- [Valbnb](https://raoul-airbnb.onrender.com/) 🎮
+<p align="center">
+  <a href="https://fearface.onrender.com/">FearFace</a> 😈 |
+  <a href="https://flix-dyz2.onrender.com/">Flix</a> 🎥 |
+  <a href="https://raoul-airbnb.onrender.com/">Valbnb</a> 🎮
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" alt="Code Meme" style="width: 300px;">
+</p>
 
-<div>
-  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" alt="Code Meme" style="width: 300px">
-</div>
+<p align="center">(This meme is also a complete joke and does not reflect me...)</p>
 
+<p align="center">
+  <a href="https://github.com/raoulandalis/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=raoulandalis" alt="Raoul's GitHub stats">
+  </a>
+</p>
 
-(this meme is also a complete joke and does not reflect me...)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 50px;">
+</p>
 
-[![Raoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoulandalis)](https://github.com/raoulandalis/github-readme-stats)
-
-<div style="display: flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style='width: 50px'>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" style='width: 50px' />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" style='width: 50px'/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="css" style='width: 50px'/>
-          
-          
-          
-</div>
