@@ -1,4 +1,4 @@
-### My name is Raoul, but you can call (or email) me anytime 📱
+### My name is Raoul, but you can call (or email) me anytime 📱😎
 
 <!--
 **raoulandalis/raoulandalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
