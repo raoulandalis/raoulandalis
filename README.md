@@ -9,8 +9,8 @@ Want to check out my projects? Here they are:
 - [Valbnb](https://raoul-airbnb.onrender.com/) 🎮
 
 
-<div style="width: 300px">
-  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" alt="Code Meme">
+<div>
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" alt="Code Meme" style="width: 300px">
 </div>
 
 
