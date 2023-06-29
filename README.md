@@ -17,8 +17,8 @@
 <p align="center">(This meme is also a complete joke and does not reflect me...)</p>
 
 <p align="center">
-  <a href="https://github.com/raoulandalis/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raoulandalis" alt="Raoul's GitHub stats">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=raoulandalis&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
