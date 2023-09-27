@@ -1,6 +1,6 @@
 <h3 align="center">My name is Raoul, but you can call (or email) me anytime 📱😎</h3>
 
-<p align="center">I am a full-stack software engineer ready to learn, work, and most importantly, have fun!</p>
+<p align="center">I am a full-stack software engineer ready to learn, work, and most importantly, have fun</p>
 
 <p align="center">Want to check out my projects? Here they are:</p>
 
